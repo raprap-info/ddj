@@ -15,3 +15,4 @@ Daily Devotion Journal
 - Date
 - Verse
 - Journal
+
