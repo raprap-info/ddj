@@ -1,0 +1,2 @@
+# ddj
+Daily Devotion Journal
