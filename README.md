@@ -10,6 +10,13 @@ Daily Devotion Journal
 - Meditate The Text Within The Day
 - Write The Personal Lesson By End of Day
 
+#Journal Structure
+
+- Text Verse:
+- Paraphrase:
+- Journal:
+- Application:
+- Prayer Concerns:
 
 #DDJ Submittion Tags
 - Date
